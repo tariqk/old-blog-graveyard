@@ -1,0 +1,76 @@
+23/5
+####
+:date: 2005-11-07 01:35
+:author: T-Boy
+
+Got it from `here`_.
+
+.. raw:: html
+
+   </p>
+
+Hey, what’s the harm, right? Besides, I was curious.
+
+.. raw:: html
+
+   </p>
+
+The 23/5 Meme via `percolator’s ‘the mudpond’`_.
+
+.. raw:: html
+
+   </p>
+
+#. Dig into your archives
+#. Find your `23\ :sup:`rd` post`_.
+#. Find the 5th sentence (or closest to) and post it in your blog along
+   with these instructions.
+
+.. raw:: html
+
+   </p>
+
+[STRIKEOUT:fnord]
+
+.. raw:: html
+
+   </p>
+
+And here it is:
+
+.. raw:: html
+
+   </p>
+
+.. raw:: html
+
+   <p>
+
+    .. raw:: html
+
+       </p>
+
+    How many of them can spell properly again, much less spell “Jalan
+    Riong”?
+
+    .. raw:: html
+
+       </p>
+
+    .. raw:: html
+
+       <p>
+
+.. raw:: html
+
+   </p>
+
+Mmm, feel the burn!
+
+.. raw:: html
+
+   </p>
+
+.. _here: http://mudpond.blogspot.com/2005/10/235-meme.html
+.. _percolator’s ‘the mudpond’: http://mudpond.blogspot.com/
+.. _`23\ :sup:`rd` post`: http://t-boy.blogspot.com/2004/10/i-dont-hate-you-cause-i-hate-freedom.html
