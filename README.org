@@ -1,0 +1,25 @@
+#+TITLE: "Why Are You Here?"'s Graveyard
+#+AUTHOR: Tariq Kamal
+#+EMAIL: github.t-boy@xoxy.net
+#+STARTUP: logdone
+
+* A Blog's Graveyard
+
+This is a monument to a blog’s life, and it’s death.
+
+Mostly death. It wasn’t a very nice life.
+
+Well, okay, it wasn’t *that* bad, but it is, in retrospect, mildly embarrassing.
+ 
+** TODO Things to do
+*** TODO Source cleanup & conversion:
+  + [ ] Review everything I've done here, figure out if I want to use whatever it I'm using.
+    - [ ] Decision :: What final format to use? (candidates: Markdown, ReST, org-mode)
+    - [ ] Decision :: What engine to use to convert?
+  + [X] Cleanup — ideally, remove everything except XML source.
+  + [ ] Convert XML source to entries + comments in target format. Entries should be individual files, comments should be static entry (i.e. comments). Same for footnotes.
+*** TODO Publication & funeral
+    - [ ] Configure conversion pipeline
+    - [ ] Run conversion & push results to gh-pages branch.
+    - [ ] Point output to new subdomain (likely =t-boy.bebudak.net=).
+    - [ ] Redirect all entries to new site.
